@@ -29,7 +29,7 @@ function filterByProperty(people, property, value) {
 var peopleArray = [
     { name: "Nikola", age: 30, gender: "male" },
     { name: "Emilija", age: 25, gender: "female" },
-    { name: "Bob", age: 35, gender: "male" },
+    { name: "Bo", age: 35, gender: "male" },
     { name: "Sandra", age: 40, gender: "female" }
 ];
 var males = filterByProperty(peopleArray, "gender", "male");
