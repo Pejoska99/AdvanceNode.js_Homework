@@ -112,6 +112,8 @@ console.log(booleanToString(false))
 
 // Note: Empty arrays should return 0.
 
+
+
 function calculateAverage(numbers: number[]): number {
     if (numbers.length === 0) {
         return 0;
